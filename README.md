@@ -6,5 +6,7 @@ Cpp modules from the Cpp course of the 42 common-core
 
 Each module is described on it's own.
 
+It's from the start of my personal C++ journey.
+
 Here you find the modules (in progress):
-- [CPP00](https://github.com/poechlauerbe/cpp_42/tree/main/cpp00))
+- [CPP00](https://github.com/poechlauerbe/cpp_42/tree/main/cpp00)

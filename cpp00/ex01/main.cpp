@@ -5,7 +5,7 @@
 #include <cctype>
 #include <string>
 #include <iostream>
-#include <stdlib.h>
+#include <cstdlib>
 
 void	msg_exit()
 {
@@ -15,7 +15,7 @@ void	msg_exit()
 
 void	num_check(std::string *number)
 {
-	int len;
+	int len = 0;
 	int	err = 1;
 
 	while (err)
