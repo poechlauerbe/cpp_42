@@ -5,7 +5,7 @@ Has three exercises.
 
 Goal of the exercise is to switch from C to C++ and get introduced to the C++ standard library.
 
-All exercises have a Makefile which compiles the program with the correct flags requested by 42 standard.
+All exercises have a Makefile which compiles the program with the correct flags requested by the subject (c++98).
 
 ## ex00
 
