@@ -30,3 +30,66 @@
 *.exe
 *.out
 *.app
+
+# Cpp00
+.vscode
+megaphone
+phonebook
+account
+
+# Cpp01
+Zombie
+ZombieHorde
+refNptr
+violence
+replace
+harl
+harlFilter
+
+# Cpp02
+Fixed
+Point
+
+# Cpp03
+ClapTrap
+ScavTrap
+FragTrap
+DiamondTrap
+
+# Cpp04
+Animal
+Brain
+PureAbstract
+
+# Cpp05
+Bureaucrat
+Form
+AForm
+*_shrubbery
+Intern
+
+# Cpp06
+convert
+Serializer
+Identify
+
+# Cpp07
+template
+iter
+array
+
+# Cpp08
+Easyfind
+Span
+MutantStack
+
+# Cpp09
+btc
+RPN
+PmergeMe
+
+# Testfiles
+bptest*
+test
+safety
+error_inputs.txt
